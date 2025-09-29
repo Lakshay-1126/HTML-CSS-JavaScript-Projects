@@ -28,4 +28,4 @@ Follow these steps to explore the projects:
 
 1. **Clone the repository**:  
 ```bash
-git clone https://github.com/Lakshay-1126/HTML-CSS-JavaScript-Projects.git
+ https://github.com/Lakshay-1126/HTML-CSS-JavaScript-Projects
